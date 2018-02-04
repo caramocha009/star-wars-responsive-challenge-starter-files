@@ -6,6 +6,7 @@ header {
 	background-color: orange;
 	width: 100%;
 	padding-top: 20px;
+	margin-bottom: 40px;
 }
 
 h1 {
@@ -14,11 +15,8 @@ h1 {
 	margin-top: 0;
 }
 
-main {
-  padding-top: 100px;
-}
 
-main .row {
+.col-4 {
   margin-bottom: 20px;
 }
 
@@ -26,14 +24,14 @@ main .row {
   border: 1px solid #d3d3d3;
 }
 
-.card .text {
+.col-4 .text {
 	padding: 2px 16px;
 }
 
-.card img {
+.col-4 img {
 	width: 100%;
 }
 
-.card h2 {
+.col-4 h2 {
 	font-size: 16pt;
 }
