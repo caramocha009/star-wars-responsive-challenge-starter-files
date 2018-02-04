@@ -1,0 +1,39 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+header {
+	background-color: orange;
+	width: 100%;
+	padding-top: 20px;
+}
+
+h1 {
+	font-weight: 600;
+	font-size: 24pt;
+	margin-top: 0;
+}
+
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.container {
+  border: 1px solid #d3d3d3;
+}
+
+.card .text {
+	padding: 2px 16px;
+}
+
+.card img {
+	width: 100%;
+}
+
+.card h2 {
+	font-size: 16pt;
+}
